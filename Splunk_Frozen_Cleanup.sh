@@ -1,5 +1,5 @@
 #!/bin/bash
-#clear
+clear
 echo  "############################"
 echo  "##created.by mehran.safari##"
 echo  "##        2022            ##"
